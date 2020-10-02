@@ -34,8 +34,44 @@ body
     color: red;
     
 }
-#btn
-{
-    background-color: white;
-    
+#btn {
+    text-decoration: none;
+    font-family: Arial;
+    padding: 0.2em 3em;
+    color: #fff;
+    background-color: #000;
+}
+
+#btn:hover {
+    color: #000;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+#ebtn {
+    text-decoration: none;
+    font-family: Arial;
+    padding: 0.2em 3em;
+    color: #fff;
+    background-color: #000;
+}
+
+#ebtn:hover {
+    color: #000;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+#hbtn {
+    text-decoration: none;
+    font-family: Arial;
+    padding: 0.2em 3em;
+    color: #fff;
+    background-color: #000;
+}
+
+#hbtn:hover {
+    color: #000;
+    background-color: #fff;
+    border-radius: 5px;
 }
