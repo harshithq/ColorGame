@@ -1,0 +1,41 @@
+body
+{
+    background-color: #232323;
+}
+.display-2
+{
+    color: red;
+    background-color: bisque;
+}
+.display-4
+{
+    color: palevioletred;
+    background-color: bisque;
+}
+.square
+{
+    width: 30%;
+    padding-bottom: 30%;
+    background-color: rgb(114, 23, 199);
+    float: left;
+    margin: 1.66%;
+}
+#container
+{
+    max-width: 600px;
+    margin: 0 auto;
+}
+#stripe
+{
+    background-color: white;
+}
+#status
+{
+    color: red;
+    
+}
+#btn
+{
+    background-color: white;
+    
+}
