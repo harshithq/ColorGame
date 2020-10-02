@@ -15,3 +15,5 @@ The page will reload if you make edits.<br />
 This section has moved here: https://github.com/harshithq/ColorGame.git
 
 ## Screenshots of a working project
+
+![screencapture-file-home-vinay-Desktop-ColorGame-colorgame-html-2020-10-02-22_09_50](https://user-images.githubusercontent.com/28500944/94949780-1d51be00-04ff-11eb-89a9-a251f66806da.png)
