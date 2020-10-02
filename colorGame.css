@@ -1,45 +1,43 @@
-body
-{
-    background-color: #232323;
+body {
+    background: linear-gradient(rgb(100, 240, 100), rgb(48, 62, 143));
 }
-.display-2
-{
+
+.display-2 {
     color: red;
-    background-color: bisque;
 }
-.display-4
-{
-    color: palevioletred;
-    background-color: bisque;
+
+.display-4 {
+    color: white;
 }
-.square
-{
+
+.square {
     width: 30%;
     padding-bottom: 30%;
     background-color: rgb(114, 23, 199);
     float: left;
     margin: 1.66%;
 }
-#container
-{
+
+#container {
     max-width: 600px;
     margin: 0 auto;
 }
-#stripe
-{
-    background-color: white;
+
+#stripe {
+    background: linear-gradient(rgba(22, 89, 212, 0.623), rgb(181, 187, 221));
 }
-#status
-{
+
+#status {
     color: red;
-    
 }
+
 #btn {
     text-decoration: none;
     font-family: Arial;
     padding: 0.2em 3em;
     color: #fff;
     background-color: #000;
+    border-radius: 5px;
 }
 
 #btn:hover {
@@ -53,6 +51,7 @@ body
     font-family: Arial;
     padding: 0.2em 3em;
     color: #fff;
+    border-radius: 5px;
     background-color: #000;
 }
 
@@ -67,6 +66,7 @@ body
     font-family: Arial;
     padding: 0.2em 3em;
     color: #fff;
+    border-radius: 5px;
     background-color: #000;
 }
 
