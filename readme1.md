@@ -7,6 +7,8 @@
 <a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
+[leia em Português](https://github.com/harshithq/ColorGame/readme1.pt-br.md)
+
 # [Demo](https://link)
 
  [![GitHub issues](https://img.shields.io/github/issues/harshithq/ColorGame?logo=github)](https://github.com/harshithq/ColorGame/issues)
