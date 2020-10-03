@@ -1,39 +1,40 @@
-body
-{
+body {
     background-color: #232323;
 }
-.display-2
-{
+
+.display-2 {
     color: red;
     background-color: bisque;
 }
-.display-4
-{
+
+.display-4 {
     color: palevioletred;
     background-color: bisque;
 }
-.square
-{
+
+.square {
     width: 30%;
     padding-bottom: 30%;
     background-color: rgb(114, 23, 199);
+    border-radius: 1rem;
     float: left;
     margin: 1.66%;
 }
-#container
-{
+
+#container {
     max-width: 600px;
     margin: 0 auto;
 }
-#stripe
-{
+
+#stripe {
     background-color: white;
 }
-#status
-{
+
+#status {
     color: red;
-    
+
 }
+
 #btn {
     text-decoration: none;
     font-family: Arial;
