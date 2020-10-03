@@ -1,66 +1,41 @@
-body {
-    background-color: #232323;
-    margin: 0;
-    font-family: 'Open Sans', sans-serif;
+body
+{
+    background-color: rgb(80, 74, 74);
 }
-.square {
+.display-2
+{
+    color: red;
+    background-color:rgb(170, 167, 167);
+}
+.display-4
+{
+    color: rgb(112, 183, 216);
+    background-color: rgb(80, 74, 74);
+}
+.square
+{    border-radius: 20px;
     width: 30%;
-    background: purple;
     padding-bottom: 30%;
+    background-color: rgb(114, 23, 199);
     float: left;
     margin: 1.66%;
-    border-radius: 15%;
-    transition: background 0.3s;
-    -webkit-transition: background 0.3s;
-    -moz-transition: background 0.3s;
 }
-#container {
-    margin: 20px auto;
+#container
+{
     max-width: 600px;
+    margin: 0 auto;
 }
-h1 {
-    text-align: center;
-    line-height: 1.1;
-    color: white;
-    font-weight: 400;
-    background: steelblue;
-    margin: 0;
-    text-transform: uppercase;
-    padding: 20px 0;
+#stripe
+{
+    background-color:rgb(170, 167, 167);
 }
-#colorDisplay {
-    font-size: 200%;
+#status
+{
+    color: red;
+    
 }
-#message {
-    display: inline-block;
-    width: 20%;
-}
-#stripe {
-    background: white;
-    height: 30px;
-    text-align: center;
-    color: black;
-}
-.selected {
-    color: white;
-    background: yellowgreen;
-}
-button {
-    border: none;
-    background: none;
-    text-transform: uppercase;
-    height: 100%;
-    font-weight: 700;
-    color: steelblue;
-    letter-spacing: 1px;
-    font-size: inherit;
-    transition: all 0.3s;
-    -webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    outline: none;
-}
-button:hover {
-    color: white;
-    background: orange;
-    border-radius: 5px;
+#btn
+{
+    background-color: white;
+    
 }
