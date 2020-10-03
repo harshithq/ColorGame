@@ -1,8 +1,10 @@
 body {
     background-color: #232323;
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
 }
+
 .square {
     width: 30%;
     background: purple;
